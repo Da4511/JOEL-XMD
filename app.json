@@ -1,5 +1,5 @@
 {
-  "name": "ᴊᴏᴇʟ xᴍᴅ ʙᴏᴛ",
+  "name": "Danish xjoelᴛ",
   "description": "ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ʙʏ ʟᴏʀ ᴊᴏᴇʟ",
   "logo": "https://files.catbox.moe/sgld88.jpg",
   "keywords": ["bot"],
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "tfNR0JQR#eRENu7uGQf2yJW7x_QMMHpFdwZDJ9fhtjyzyKTE8Oxo.",
       "required": true,
       "value": ""
     },  
